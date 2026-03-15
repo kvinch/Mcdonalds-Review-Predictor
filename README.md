@@ -22,7 +22,7 @@ Mcdonalds-Review-Predictor/
 │   ├── McDonalds_RAW.csv 
 │   ├── McDonalds_Clean.csv
 │   └── processed/
-│       └── McDonalds_Features.csv # Dataset con features de ML
+│       └── McDonalds_Features.csv
 │
 ├── src/
 │   ├── clean_data.py 
