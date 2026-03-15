@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+textblob
+nltk
+psycopg2-binary
+python-dotenv
+streamlit
+tqdm
+jupyter
+ipykernel
