@@ -82,3 +82,8 @@ python -c "import nltk; nltk.download('vader_lexicon')"
 # 3. Lanzar el dashboard
 streamlit run dashboard/dashboard.py
 ```
+
+## Enlace del Dataset de _Kaggle_
+```bash
+https://www.kaggle.com/datasets/nelgiriyewithana/mcdonalds-store-reviews
+```
